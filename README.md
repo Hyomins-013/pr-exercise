@@ -1,2 +1,2 @@
-Yagom git commit Pretice
+Yagom git commit Pratice
 
